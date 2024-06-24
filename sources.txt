@@ -1,0 +1,12 @@
+./src/H_U_R/Review.java
+./src/H_U_R/Hotel.java
+./src/H_U_R/User.java
+./src/Server/HotelManager.java
+./src/Server/WorkerThread.java
+./src/Server/HOTELIERServerMain.java
+./src/Server/UserManager.java
+./src/Server/DataStore.java
+./src/Server/RankingAlgorithm.java
+./src/Client/HOTELIERClientMain.java
+./src/Client/InputValidator.java
+./src/Client/ClientHelper.java

@@ -1,0 +1,9 @@
+{
+    "HOTELS_PATH": "./src/Config/newJsonHotel.json",
+    "USERS_PATH": "./src/Config/Users.json",
+    "UDP_PORT": 8081,
+    "TCP_PORT": 8080,
+    "UDP_ADDRESS": "230.30.40.40",
+    "SERVER_ADDRESS": "localhost"
+}
+  
